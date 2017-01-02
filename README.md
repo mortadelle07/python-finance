@@ -1,2 +1,4 @@
 # python-finance
-Collection of Python scripts implementing finance principles
+Collection of Python scripts implementing finance principles.
+-------------------------------------------------------------
+
